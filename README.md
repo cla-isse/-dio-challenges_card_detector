@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 
-* [Card Detector Code](./app.py)
+* [Card Detector Code](./src/app.py)
 
 ---
 
